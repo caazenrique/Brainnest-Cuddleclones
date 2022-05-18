@@ -8,7 +8,7 @@ Feature: Upper bar
 
     Scenario: Clicking on the title of the category
     When I click on the title
-    Then I will acces all the products of the category
+    Then I will access all the products of the category
 
     // Test failed: Products are misplaced in categories. //
     
