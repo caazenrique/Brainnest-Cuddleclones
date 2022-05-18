@@ -1,7 +1,7 @@
 
 Feature: Upper bar
 
-    As an user I want access the different categories and products through the upper bar
+    As an user I want to access the different categories and products through the upper bar
 
     Background:
     Given I access https://cuddleclones.com
