@@ -26,5 +26,3 @@ Feature: Login
     Then Must contain an error message for the password
 
     // QA verified //
-
-    
